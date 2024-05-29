@@ -1,0 +1,3 @@
+C:\Users\79065\Desktop\C++ progs\jija\x64\Debug\jija.exe
+C:\Users\79065\OneDrive\Рабочий стол\C++ progs\jija\x64\Debug\jija.exe
+C:\Users\79065\OneDrive\Рабочий стол\C++ progs\Game-life\x64\Debug\jija.exe

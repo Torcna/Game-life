@@ -1,0 +1,4 @@
+﻿  jija.cpp
+C:\Users\79065\OneDrive\Рабочий стол\C++ progs\Game-life\jija.cpp(1453,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79065\OneDrive\Рабочий стол\C++ progs\Game-life\jija.cpp(709): warning C4715: num_to_coord: значение возвращается не при всех путях выполнения
+  jija.vcxproj -> C:\Users\79065\OneDrive\Рабочий стол\C++ progs\Game-life\x64\Debug\jija.exe
